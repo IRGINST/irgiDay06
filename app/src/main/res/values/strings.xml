@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">IrgiDay06</string>
+
+    <string-array name="foto_mobil">
+        <item>daihatsu_ayla</item>
+        <item>daihatsu_sigra</item>
+        <item>daihatsu_terios</item>
+        <item>gwm_haval_h6</item>
+        <item>gwm_tank_500</item>
+        <item>honda_brio</item>
+        <item>honda_wr_v</item>
+        <item>hyundai_creta</item>
+        <item>mercedes_benz_cle_coupe</item>
+        <item>mg_vs_hev</item>
+        <item>mitsubishi_xpander</item>
+        <item>renault_kwid</item>
+        <item>toyota_avanza</item>
+        <item>toyota_calya</item>
+        <item>toyota_rush</item>
+    </string-array>
+
+    <string-array name="harga_mobil">
+        <item>Rp. 135.000.000</item>
+        <item>Rp. 138.000.000</item>
+        <item>Rp. 240.000.000</item>
+        <item>Rp. 595.000.000</item>
+        <item>Rp. 1.196.000.000</item>
+        <item>Rp. 168.000.000</item>
+        <item>Rp. 275.000.000</item>
+        <item>Rp. 297.000.000</item>
+        <item>Rp. 2.070.000.000</item>
+        <item>Rp. 389.000.000</item>
+        <item>Rp. 261.000.000</item>
+        <item>Rp. 161.000.000</item>
+        <item>Rp. 237.000.000</item>
+        <item>Rp. 165.000.000</item>
+        <item>Rp. 282.000.000</item>
+    </string-array>
+
+    <string-array name="nama_mobil">
+        <item>Daihatsu Ayla</item>
+        <item>Daihatsu Sigra</item>
+        <item>Daihatsu Terios</item>
+        <item>Gwm Haval H6</item>
+        <item>Gwm Tank 500</item>
+        <item>Honda Brio</item>
+        <item>Honda Wr V</item>
+        <item>Hyundai Creta</item>
+        <item>Mercedes Benz Cle Coupe</item>
+        <item>Mg Vs Hev</item>
+        <item>Mitsubishi Xpander</item>
+        <item>Renault Kwid</item>
+        <item>Toyota Avanza</item>
+        <item>Toyota Calya</item>
+        <item>Toyota Rush</item>
+    </string-array>
+
+    <string-array name="merk_mobil">
+        <item>Daihatsu</item>
+        <item>Daihatsu</item>
+        <item>Daihatsu</item>
+        <item>Great Wall Motor</item>
+        <item>Great Wall Motor</item>
+        <item>Honda</item>
+        <item>Honda</item>
+        <item>Hyundai</item>
+        <item>Mercedes</item>
+        <item>MG Motor</item>
+        <item>Mitsubishi</item>
+        <item>Renault</item>
+        <item>Toyota</item>
+        <item>Toyota</item>
+        <item>Toyota</item>
+    </string-array>
+</resources>
